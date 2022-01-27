@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890480843633",
+    "firebase_url": "https://flash-chat-ac357.firebaseio.com",
+    "project_id": "flash-chat-ac357",
+    "storage_bucket": "flash-chat-ac357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890480843633:android:8f27b617d5d2bfbed8b4d0",
+        "android_client_info": {
+          "package_name": "co.NirmalNarasimha.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890480843633-q0vvsq3ratm2bp80ru2qapibq6a9avul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA041S6qtleqVKHNuUW1hl4TfOkQ2_anos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890480843633-q0vvsq3ratm2bp80ru2qapibq6a9avul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
